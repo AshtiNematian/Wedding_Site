@@ -1,16 +1,13 @@
 # Wedding_Site
 This website showcases a collection of wedding photography, featuring both pre-wedding and wedding images.
 URL=https://amirmahdavi-studio.com/
-![Uploading Screenshot (42).png…]()
 
-
-
-
-![Screenshot (32)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/0e0ce6cf-6660-45e9-9a93-bbd0261f4b30)
-![Screenshot (38)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/cb80f4e2-770d-4fb8-bb0c-001133f03a6b)
-![Screenshot (37)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/5bea965c-cb15-4a83-b9d3-3dcf0ef60e64)
-![Screenshot (36)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/41349227-c32c-49bf-a5b5-224ae6d8fafb)
-![Uploading Screenshot (41).png…]()
-![Screenshot (40)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/5bb561c7-4292-4d90-9d60-8c7f34a2ee19)
-![Screenshot (39)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/50d2a752-12fc-405f-9c41-eae407d56b32)
-![Screenshot (43)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/39641608-68a1-4d69-b7a5-c5cc1b16c9d5)
+![Screenshot (45)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/7e38fefa-06cc-49e9-adcc-e728348e5462)
+![Screenshot (44)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/c4463e70-b9a2-45b9-8918-34b90b6519ae)
+![Screenshot (43)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/79050fd5-b386-43f8-b517-25ecd71ddd41)
+![Screenshot (41)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/bf22f9a3-32e2-451e-b9e4-b88a015234f8)
+![Screenshot (40)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/eaa50bee-e135-4655-a1ce-626161bc9e8f)
+![Screenshot (39)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/c70ab3f2-00e9-4d33-bcc4-aa40d54a596b)
+![Screenshot (38)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/78bf3815-273c-4b7f-9691-08423172c503)
+![Screenshot (37)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/80746d2b-3772-4c82-8ac7-2d7ac4f34d47)
+![Screenshot (32)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/6b45b36b-8315-4f97-bdac-a35beb3ea238)
