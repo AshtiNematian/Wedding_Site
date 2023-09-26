@@ -37,4 +37,3 @@ Enjoy exploring the world of wedding photography!
 
 
 ![Screenshot (32)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/f80ea933-ba25-46b0-8b3a-1fa4217e53c9)
-![Screenshot (38)](https://github.com/AshtiNematian/Wedding_Site/assets/89601542/e0f0f7cf-5c95-47e0-a9ac-40eeefd95748)
